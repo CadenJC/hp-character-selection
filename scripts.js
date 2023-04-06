@@ -28,5 +28,5 @@ function emphasize(house){
 
 function hideTheSnitch(){
   const hide = document.getElementById("golden");
-  hide.classList.toggle(snitch);
+  hide.classList.toggle("snitch");
 }
